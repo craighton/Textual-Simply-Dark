@@ -14,9 +14,10 @@ Drag and drop the 'Simply Dark' folder in your 'Styles' folder.
 
 ## Changelog ##
 
-* Changed other users' text from a dark grey to white. 
+* Changed other users' text from a dark grey to an off-white. 
 * Prevented the auto-collapsing of the topic. (Still needs work.)
 * Retooled colors to be easily seeable on dark backgrounds. 
+* Changed PRIVMSG text color to be better rediable. 
 
 - - - -
 
