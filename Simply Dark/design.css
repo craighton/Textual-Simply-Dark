@@ -119,19 +119,9 @@ a:hover {
 	background: -webkit-linear-gradient(top, #0F0F0F 0%, #262626 100%);
 	-webkit-transition: opacity 0.8s linear;
 	-webkit-font-smoothing: subpixel-antialiased;
-	/* overflow: hidden;
-	white-space: nowrap; */
 	overflow: visible;
 	white-space: normal;
 	text-overflow: ellipsis;
-}
-
-/* Topic bar hover additions contributed with permission from the project:
-	<https://github.com/hbang/Simplified-Light-Modifications> */
-
-#topic_bar:hover {
-	overflow: visible;
-	white-space: normal;
 }
 
 #topic_bar a,

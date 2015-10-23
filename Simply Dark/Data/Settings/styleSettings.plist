@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Nickname Format</key>
-	<string></string>
+	<string>%@%n: </string>
 	<key>Timestamp Format</key>
-	<string></string>
+	<string>[%H:%M:%S]</string>
 	<key>Override Channel Font</key>
 	<dict>
 		<key>Font Name</key>
