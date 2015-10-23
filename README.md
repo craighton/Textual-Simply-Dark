@@ -1,7 +1,7 @@
 # Textual-Simply-Dark
 A modified 'Simplified Dark' theme from Textual!
 
-[![Latest release][badge-release]] [![Supported platforms][badge-platforms]]
+![Latest release][badge-release]  ![Supported platforms][badge-platforms]
 
 - - - -
 
@@ -33,4 +33,4 @@ Version 0.3
 
 
 [badge-release]: https://img.shields.io/badge/Version-0.3-green.svg?style=flat-square "Latest release"
-[badge-platforms]: ttps://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"
+[badge-platforms]: https://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"
