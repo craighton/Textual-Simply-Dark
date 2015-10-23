@@ -19,17 +19,17 @@ Drag and drop the 'Simply Dark' folder in your 'Styles' folder.
 
 ## Changelog ##
 
-Version 0.1
-* Changed other users' text from a dark grey to an off-white. 
-* Prevented the auto-collapsing of the topic. (Still needs work.)
+Version 0.3
+* Added a set time and nickname format. 
+* Removed old code from when the topic was collapsible. 
 
 Version 0.2
 * Retooled colors to be easily seeable on dark backgrounds. 
 * Changed PRIVMSG text color to be better rediable. 
 
-Version 0.3
-* Added a set time and nickname format. 
-* Removed old code from when the topic was collapsible. 
+Version 0.1
+* Changed other users' text from a dark grey to an off-white. 
+* Prevented the auto-collapsing of the topic. (Still needs work.)
 
 
 [badge-release]: https://img.shields.io/badge/Version-0.3-green.svg?style=flat-square "Latest release"
