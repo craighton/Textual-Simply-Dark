@@ -8,7 +8,7 @@
 }
 
 body {
-	color: #fff;
+	color: #E5E5E5;
 	height: 100%;
  	z-index: 100;
 	font-size: 12px;
@@ -66,12 +66,12 @@ body div#loading_screen {
 /* Time */
 
 body[dir=ltr] .time {
-	color: #666;
+	color: #7F7F7F;
 	white-space: nowrap;
 }
 
 body[dir=rtl] .time {
-	color: #666;
+	color: #7F7F7F;
 	white-space: nowrap;
 	padding-left: 0.4em;
 	display: inline-block;
@@ -279,7 +279,7 @@ body div[ltype="privmsg"] .message {
 }
 
 body div[ltype*=privmsg][mtype*=myself] .message {
-	color: #fff;
+	color: #E5E5E5;
 }
 
 body div[ltype*=privmsg] .sender {
