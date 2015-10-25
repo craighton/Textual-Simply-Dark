@@ -66,12 +66,12 @@ body div#loading_screen {
 /* Time */
 
 body[dir=ltr] .time {
-	color: #7F7F7F;
+	color: #7A7A7A;
 	white-space: nowrap;
 }
 
 body[dir=rtl] .time {
-	color: #7F7F7F;
+	color: #7A7A7A;
 	white-space: nowrap;
 	padding-left: 0.4em;
 	display: inline-block;
@@ -262,6 +262,17 @@ body div.line[ltype*=action][highlight=true] {
 	border-top: 1px solid #988C00;
 	border-bottom: 1px solid #988C00;
   	background-color: #362C00 !important;
+}
+
+body div.line[ltype*=privmsg][mtype*=myself],
+body div.line[ltype*=action][mtype*=myself] {
+	z-index: 192;
+  	position: relative;
+	font-weight: normal;
+ 	padding: 2px 5px 2px 5px;
+	border-top: 1px solid #7F7F7F;
+	border-bottom: 1px solid #7F7F7F;
+  	background-color: #1F1F1F !important;
 }
 
 body div[ltype="privmsg"] .message {

@@ -9,15 +9,15 @@ I enjoyed the Simplified Dark theme for Textual but I found that some of the for
 
 ## Install ##
 
-Drag and drop the 'Simply Dark' folder in your 'Styles' folder. 
+Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual. 
 
-## Todo ##
-
-* Retool colors to make better distinctions. 
-* Set a suggested font. 
-* In some situations the topic doesn't show. 
 
 ## Changelog ##
+
+Version 0.4
+* Modified timestamp color to be a little bit lighter. 
+* Added a little bit of a highlight for your own messages sent.
+* Changed name format slightly for improvement sake. 
 
 Version 0.3
 * Added a set time and nickname format. 
@@ -32,5 +32,5 @@ Version 0.1
 * Prevented the auto-collapsing of the topic. (Still needs work.)
 
 
-[badge-release]: https://img.shields.io/badge/Version-0.3-green.svg?style=flat-square "Latest release"
+[badge-release]: https://img.shields.io/badge/Version-0.4-green.svg?style=flat-square "Latest release"
 [badge-platforms]: https://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"
