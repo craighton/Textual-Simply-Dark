@@ -14,7 +14,7 @@ Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual.
 
 ## Changelog ##
 
-Version 0.4
+Version 0.4.1
 * Modified timestamp color to be a little bit lighter. 
 * Added a little bit of a highlight for your own messages sent.
 * Changed name format slightly for improvement sake. 

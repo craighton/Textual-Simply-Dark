@@ -270,9 +270,9 @@ body div.line[ltype*=action][mtype*=myself] {
   	position: relative;
 	font-weight: normal;
  	padding: 2px 5px 2px 5px;
-	border-top: 1px solid #7F7F7F;
-	border-bottom: 1px solid #7F7F7F;
-  	background-color: #1F1F1F !important;
+	border-top: 1px solid #404040;
+	border-bottom: 1px solid #404040;
+  	background-color: #0F0F0F !important;
 }
 
 body div[ltype="privmsg"] .message {
