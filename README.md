@@ -11,8 +11,19 @@ I enjoyed the Simplified Dark theme for Textual but I found that some of the for
 
 Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual. 
 
+## Todo ##
+
+* Change user colors to be easily readiable on dark backgrounds (it's not optimized, but it's close).
+* Change topic bar colors. 
+* Optimize highlight line color. 
+* Optimize status page colors. 
 
 ## Changelog ##
+
+Version 0.5
+* Centered topic text
+* Added extra padding to topic bar. 
+* Slightly changed highlight color (still needs work).
 
 Version 0.4.1
 * Modified timestamp color to be a little bit lighter. 
@@ -32,5 +43,5 @@ Version 0.1
 * Prevented the auto-collapsing of the topic. (Still needs work.)
 
 
-[badge-release]: https://img.shields.io/badge/Version-0.4.1-green.svg?style=flat-square "Latest release"
+[badge-release]: https://img.shields.io/badge/Version-0.5-green.svg?style=flat-square "Latest release"
 [badge-platforms]: https://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"

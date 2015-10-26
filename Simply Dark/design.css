@@ -112,7 +112,7 @@ a:hover {
 	z-index: 400;
 	color: #8E8E8E;
 	position: fixed;
-	padding: 2px 0.5em 3px;
+	padding: 5px 0.5em 5px;
 	box-shadow: 0 1px 5px #777;
 	border-bottom: 1px solid #404040;
 	text-shadow: 1px 1px rgba(10, 10, 10, 0.7);
@@ -122,6 +122,7 @@ a:hover {
 	overflow: visible;
 	white-space: normal;
 	text-overflow: ellipsis;
+	text-align: center;
 }
 
 #topic_bar a,
@@ -261,7 +262,7 @@ body div.line[ltype*=action][highlight=true] {
  	padding: 2px 5px 2px 5px;
 	border-top: 1px solid #988C00;
 	border-bottom: 1px solid #988C00;
-  	background-color: #362C00 !important;
+  	background-color: #1E1900 !important;
 }
 
 body div.line[ltype*=privmsg][mtype*=myself],
