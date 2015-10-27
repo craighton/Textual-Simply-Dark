@@ -20,7 +20,7 @@ Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual.
 
 ## Changelog ##
 
-Version 0.6
+Version 0.6.1
 * Rolled back how nicknames are displayed in chat
 * Improved username highlight color. 
 
