@@ -256,13 +256,21 @@ body div.line[ltype*=privmsg][highlight=false] {
 
 body div.line[ltype*=privmsg][highlight=true],
 body div.line[ltype*=action][highlight=true] {
-  	z-index: 191;
+  	/*z-index: 191;
   	position: relative;
 	font-weight: normal;
  	padding: 2px 5px 2px 5px;
 	border-top: 1px solid #988C00;
 	border-bottom: 1px solid #988C00;
-  	background-color: #1E1900 !important;
+  	background-color: #1E1900 !important; */
+
+  	color: #f00;
+  	z-index: 191;
+	background: #400;
+  	position: relative;
+ 	padding: 2px 5px 2px 5px;
+	border-top: 1px solid #811;
+	border-bottom: 1px solid #811;
 }
 
 body div.line[ltype*=privmsg][mtype*=myself],

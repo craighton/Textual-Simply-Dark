@@ -20,6 +20,10 @@ Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual.
 
 ## Changelog ##
 
+Version 0.6
+* Rolled back how nicknames are displayed in chat
+* Improved username highlight color. 
+
 Version 0.5
 * Centered topic text
 * Added extra padding to topic bar. 
@@ -43,5 +47,5 @@ Version 0.1
 * Prevented the auto-collapsing of the topic. (Still needs work.)
 
 
-[badge-release]: https://img.shields.io/badge/Version-0.5-green.svg?style=flat-square "Latest release"
+[badge-release]: https://img.shields.io/badge/Version-0.6-green.svg?style=flat-square "Latest release"
 [badge-platforms]: https://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"
