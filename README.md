@@ -47,5 +47,5 @@ Version 0.1
 * Prevented the auto-collapsing of the topic. (Still needs work.)
 
 
-[badge-release]: https://img.shields.io/badge/Version-0.6-green.svg?style=flat-square "Latest release"
+[badge-release]: https://img.shields.io/badge/Version-0.6.1-green.svg?style=flat-square "Latest release"
 [badge-platforms]: https://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"
