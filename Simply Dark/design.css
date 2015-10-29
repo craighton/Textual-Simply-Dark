@@ -299,7 +299,7 @@ body div.line[ltype*=action] {
 	background-color: none;
 }
 
-body div[ltype="action"] .message {
+body div[ltype*=action] .message {
 	color: #E6E6E6;
 }
 
@@ -309,7 +309,7 @@ body div[ltype*=action] .sender {
 
 body div[ltype*=action][mtype*=myself] .sender,
 body div[ltype*=action][mtype*=myself] .message {
-	color: #B52CF6;
+	color: #CD00FB;
 }
 
 body[dir=ltr] div[ltype*=action] .sender:before {

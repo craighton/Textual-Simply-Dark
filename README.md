@@ -11,16 +11,16 @@ I enjoyed the Simplified Dark theme for Textual but I found that some of the for
 
 Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual. 
 
-## Todo ##
-
-* Change user colors to be easily readiable on dark backgrounds (it's not optimized, but it's close).
-* Change topic bar colors. 
-* Optimize highlight line color. 
-* Optimize status page colors. 
 
 ## Changelog ##
 
+Version 1.0
+* Changed both the action colors to be better readable.
+
 Version 0.6.1
+* Corrected highlight color
+
+Version 0.6
 * Rolled back how nicknames are displayed in chat
 * Improved username highlight color. 
 
