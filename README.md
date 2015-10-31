@@ -14,6 +14,9 @@ Drag and drop the 'Simply Dark' folder in your 'Styles' folder of Textual.
 
 ## Changelog ##
 
+Version 1.0.1
+* Reversed the highlight color back to yellow but kept same highlight layout.
+
 Version 1.0
 * Changed both the action colors to be better readable.
 
@@ -47,5 +50,5 @@ Version 0.1
 * Prevented the auto-collapsing of the topic. (Still needs work.)
 
 
-[badge-release]: https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square "Latest release"
+[badge-release]: https://img.shields.io/badge/Version-1.0.1-green.svg?style=flat-square "Latest release"
 [badge-platforms]: https://img.shields.io/badge/Platforms-Mac-blue.svg?style=flat-square "Supported platforms"
