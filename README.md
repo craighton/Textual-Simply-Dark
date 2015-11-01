@@ -34,7 +34,7 @@ Version 1.0.1
 Version 1.0
 * Changed both the action colors to be better readable.
 
-*Changes prior to 1.0 can be found in the [CHANGELOG][CHANGELOG] file.*
+*Changes prior to 1.0 can be found in the [CHANGELOG](CHANGELOG.md) file.*
 
 ## Style License
 
