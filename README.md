@@ -1,8 +1,6 @@
 # Textual-Simply-Dark
 A modified style of the modified 'Simplified Dark' style from Textual!
 
-===
-
 ![Latest release][badge-release]  ![Supported platforms][badge-platforms]
 
 ## Introduction
