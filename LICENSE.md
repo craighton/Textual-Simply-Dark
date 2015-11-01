@@ -1,17 +1,27 @@
+# LICENSE
+
+===
+
+The modifier of 'Simplified Dark' to 'Simply Dark'
+<pre>
 Copyright (c) 2015 Craighton Miller
 
 This style is a modified version of the modified version 
 "Simplified Dark" and the style is modified from the 
 original developer Ethan Schoonover.
+</pre>
 
-
+The modifier of the 'Simplified' style into 'Simplified Dark'
+<pre>
 Copyright (c) 2011 Ethan Schoonover
 
 This style is a modified and stripped down version of 
 the "Simplified" theme developed by "Cowboy" Ben Alman
 (http://benalman.com/). It is copyright to him. 
+</pre>
 
-
+The origional creator the of the 'Simplified' style for Linkinus.
+<pre>
 Copyright (c) 2011 "Cowboy" Ben Alman
 
 Permission is hereby granted, free of charge, to any person
@@ -34,3 +44,4 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+</pre>

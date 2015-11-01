@@ -310,7 +310,7 @@ body div[ltype*=action] .sender {
 
 body div[ltype*=action][mtype*=myself] .sender,
 body div[ltype*=action][mtype*=myself] .message {
-	color: #CD00FB;
+	color: #009EFF;
 }
 
 body[dir=ltr] div[ltype*=action] .sender:before {
@@ -400,7 +400,7 @@ body div.line[ltype*=mode],
 body div.line[ltype*=topic],
 body div.line[ltype*=website] {
  	padding: 3px 5px 3px 5px;
-	color: #666;
+	color: #787878;
 }
 
 body[dir=ltr] div[ltype*=join] .message:before {
@@ -450,7 +450,7 @@ body .inline_nickname {
 }
 
 body div[ltype*=privmsg] .sender[mtype*=myself] {
-	color: #B8DFFF;
+	color: #6FA9FF;
 }
 
 body .sender[mtype*=normal][colornumber='0'],
